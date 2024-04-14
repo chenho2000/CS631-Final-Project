@@ -1,4 +1,4 @@
-# CS631-Final-Project
+# Social Network Analysis
 Project Summary
 
 Learning, exploring and using the processing framework GraphX to do social network analysis operations and algorithms. 
