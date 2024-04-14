@@ -1,4 +1,4 @@
-# Social Network Analysis
+# Social Network Analysis of Twitch-Gamers
 Project Summary
 
 Learning, exploring and using the processing framework GraphX to do social network analysis operations and algorithms. 
